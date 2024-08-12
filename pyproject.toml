@@ -17,8 +17,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://hetinto.github.io/"
-Issues = "https://hetinto.github.io/"
+Homepage = "https://github.com/HEtinto/nose_title_print"
+Issues = "https://github.com/HEtinto/nose_title_print"
 
 [project.entry-points."nose.plugins.0.10"]
 nose_title_print = "nose_title_print_example.nose_title_print:NoseTitlePrint"
