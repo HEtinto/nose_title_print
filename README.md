@@ -1,6 +1,6 @@
 # Nose plugin for print title info
 
-This is a example use tot print the title in python nose test module.
+This is a example use to print the title in python nose test framework.
 
 ## Require
 
